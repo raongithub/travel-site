@@ -5,7 +5,6 @@ gulp.task( 'default', function () {
   console.log( 'Created a Gulp task.' );
 });
 
-
 gulp.task( 'html', function () {
   console.log( 'Do something useful being done to your HTML here.' );
 });
